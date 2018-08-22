@@ -24,10 +24,12 @@
   },
   "homepage": "https://github.com/luoshaohua/require-node-example#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "koa": "^2.5.2",
+    "koa-connect": "^2.0.1",
+    "koa-mount": "^3.0.0",
+    "koa-static": "^5.0.0",
     "require-node": "^1.2.0",
     "require-node-loader": "^1.2.0",
-    "serve-static": "^1.13.2",
     "webpack": "^4.11.1",
     "webpack-cli": "^3.0.3"
   }
